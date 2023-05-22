@@ -1,0 +1,12 @@
+<!Doctype html>
+<html>
+    <body>
+        <p>Hi  %s,
+            We say THANK YOU for choosing medicConnect.
+                Please click the button below to activate your account.<br/>
+            <a href="%s">
+                <button>Activate again</button>
+             </a>
+        </p>
+    </body>
+</html>
