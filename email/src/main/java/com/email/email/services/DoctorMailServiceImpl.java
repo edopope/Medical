@@ -30,7 +30,7 @@ public class DoctorMailServiceImpl implements DoctorMailService {
     //TODO:collect the react frontend link and simply hardcode it inside since its not bound to change!
 
     private static final String USER_VERIFICATION_BASE_URL = "netnaija.com";
-    private static final String WELCOME_MAIL_TEMPLATE_LOCATION = "C:\\Users\\DELL\\Downloads\\uber_deluxe-working\\mediConnect247-backend\\admin\\src\\main\\resources\\welcomeNoteForDoctor.txt";
+    private static final String WELCOME_MAIL_TEMPLATE_LOCATION = "C:\\Users\\DELL\\Desktop\\medical\\email\\src\\main\\resources\\welcomeNoteForDoctor.html";
 
 
     private final MailConfig mailConfig;
